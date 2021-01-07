@@ -52,16 +52,16 @@ public class TrabajoAlgoritmos {
 	Procesador: Intel i7-9750H 2,6 GHz (4 GHz Max)
 
 	Tiempos: 500 ejecuciones en Windows
-		PostalEspaña - 2ms
-		Postal EE.UU - 4ms
-        		500k - 147ms
-        		  1M - 993ms
+		- PostalEspaña -> 2ms
+		- Postal EE.UU -> 4ms
+        - 500k -> 147ms
+        - 1M -> 993ms
 
     Tiempos: 500 ejecuciones en Ubuntu
-		PostalEspaña - 2ms
-		Postal EE.UU - 4ms
-				500k - 92ms
-				  1M - 645ms
+		- PostalEspaña -> 2ms
+		- Postal EE.UU -> 4ms
+		- 500k -> 92ms
+		- 1M -> 645ms
 	 */
 
 	/*
