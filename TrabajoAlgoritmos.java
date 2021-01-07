@@ -54,10 +54,10 @@ public class TrabajoAlgoritmos {
 	Tiempos: 500 ejecuciones en Windows
 		- PostalEspaña -> 2ms
 		- Postal EE.UU -> 4ms
-        - 500k -> 147ms
-        - 1M -> 993ms
+		- 500k -> 147ms
+		- 1M -> 993ms
 
-    Tiempos: 500 ejecuciones en Ubuntu
+	Tiempos: 500 ejecuciones en Ubuntu
 		- PostalEspaña -> 2ms
 		- Postal EE.UU -> 4ms
 		- 500k -> 92ms
